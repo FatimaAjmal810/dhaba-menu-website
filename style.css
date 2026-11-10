@@ -75,3 +75,12 @@ h2 {
   color: cornsilk;
   font-size: 14px;
 }
+/* Table Action Column & Claim Buttons */
+td button.claim-btn {
+  font-size: 14px;
+  padding: 6px 14px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
